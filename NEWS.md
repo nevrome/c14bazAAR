@@ -1,3 +1,7 @@
+# 5.1.0
+
+- added getter function for xronos database: `get_xronos`
+
 # 5.0.0
 
 - removed the databases radon and radon-b and replaced it with the new, merged database rado.nb
@@ -44,6 +48,7 @@
 # 3.2.0
 
 - added getter function for sard database: `get_sard`
+>>>>>>> master
 
 # 3.1.0
 
