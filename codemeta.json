@@ -8,13 +8,13 @@
   "codeRepository": "https://github.com/ropensci/c14bazAAR",
   "issueTracker": "https://github.com/ropensci/c14bazAAR/issues",
   "license": "https://spdx.org/licenses/GPL-2.0",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "programmingLanguage": {
     "@type": "ComputerLanguage",
     "name": "R",
     "url": "https://r-project.org"
   },
-  "runtimePlatform": "R version 4.4.0 (2024-04-24)",
+  "runtimePlatform": "R version 4.4.2 (2024-10-31)",
   "author": [
     {
       "@type": "Person",
@@ -436,7 +436,7 @@
     },
     "SystemRequirements": null
   },
-  "fileSize": "3130.491KB",
+  "fileSize": "3277.558KB",
   "citation": [
     {
       "@type": "ScholarlyArticle",

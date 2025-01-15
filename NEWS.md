@@ -1,3 +1,7 @@
+# 5.1.0
+
+- added getter function for xronos database: `get_xronos`
+
 # 5.0.0
 
 - removed the databases radon and radon-b and replaced it with the new, merged database rado.nb
